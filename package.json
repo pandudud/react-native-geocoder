@@ -1,6 +1,6 @@
 {
   "name": "@pandudud/react-native-geocoder",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "react native geocoding and reverse geocoding",
   "main": "index.js",
   "scripts": {
@@ -39,5 +39,8 @@
     "sinon": "^1.17.5",
     "sinon-chai": "^2.8.0",
     "wd": "^0.4.0"
-  }
+  },
+  "files": [
+    "react-native-geocoder.podspec"
+  ]
 }
