@@ -1,6 +1,6 @@
 {
   "name": "@pandudud/react-native-geocoder",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "react native geocoding and reverse geocoding",
   "main": "index.js",
   "scripts": {
