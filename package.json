@@ -41,6 +41,6 @@
     "wd": "^0.4.0"
   },
   "files": [
-    "react-native-geocoder.podspec"
+    "RN-Geocoder.podspec"
   ]
 }
