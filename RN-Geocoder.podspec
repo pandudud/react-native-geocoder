@@ -3,7 +3,7 @@ package = JSON.parse(File.read("package.json"))
 
 Pod::Spec.new do |s|
 
-  s.name           = package["name"]
+  s.name           = "RN-Geocoder"
   s.version        = package["version"]
   s.summary        = package['description']
   s.author         = { "pandudud" => "pandudud@gmail.com" }
